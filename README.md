@@ -1,0 +1,2 @@
+# ComputacaoParalela
+Atividades desenvolvidas
